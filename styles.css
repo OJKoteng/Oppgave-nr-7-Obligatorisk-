@@ -49,5 +49,8 @@ h1 {
   text-align: center;
 }
 
-
+.flex {
+  display: flex;
+  gap: 250px;
+}
 
